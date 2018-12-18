@@ -1,2 +1,7 @@
 # R-Learning
-My R Learning repository!
+
+R-Learning repository!
+
+Going through the R for Data Science online tutorial [here](https://r4ds.had.co.nz/).
+
+
